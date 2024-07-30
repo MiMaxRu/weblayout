@@ -391,6 +391,9 @@
     width: 100%;
     overflow: scroll;
     margin-right: 0;
+
+    overflow-y: hidden;
+    overflow-x: auto;
   }
 
   .header__search {
