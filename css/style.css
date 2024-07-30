@@ -142,22 +142,16 @@ body {
   margin-top: 1px;
 }
 
-
 .header__nav {
   margin-right: 85px;
   width: 100%;
   max-width: 615px;
-
 }
 
 .nav__list {
   display: flex;
   justify-content: space-between;
-
 }
-
-
-
 
 .nav__item:last-child {
   margin-right: 0;
@@ -843,8 +837,9 @@ body {
   opacity: 1;
 }
 
-.aria-lbl{
+.aria-lbl {
   display: none;
+  visibility: hidden;
 }
 
 /* .form__btn-checkbox:focus+.form__btn-text {
