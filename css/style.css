@@ -837,10 +837,10 @@ body {
   opacity: 1;
 }
 
-.aria-lbl {
+/* .aria-lbl {
   display: none;
   visibility: hidden;
-}
+} */
 
 /* .form__btn-checkbox:focus+.form__btn-text {
   outline: 1px solid #ff0808;
